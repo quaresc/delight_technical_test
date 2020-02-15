@@ -11,7 +11,7 @@ Simply run `iex -S mix` to access elixir interactive shell with the project load
 Two inputs files are present in the `./data` folder (same as adventofcode ones). You can use them to test both parts.
 
 ```
-iex(1)> DelightTechnicalTest.first_second_part('./data/short_input.txt')
+iex(1)> DelightTechnicalTest.first_second_part('./data/default_input.txt')
 470
 ```
 
